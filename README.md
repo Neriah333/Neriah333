@@ -38,7 +38,7 @@
       <p>
         📧 Email: <a href="mailto:pheobenyawanda@gmail.com">pheobenyawanda@gmail.com</a><br />
         🔗 LinkedIn: <a href="https://www.linkedin.com/in/pheobenyawanda59263630a" target="_blank">My LinkedIn</a><br />
-        📍 Location: Kisumu, Kenya
+        📍 Location: Nairobi, Kenya
       </p>
     </section>
   </body>
