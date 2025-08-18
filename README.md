@@ -34,6 +34,9 @@
       </ul>
     </section>
     <section>
+      ![Pheobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+    </section>
+    <section>
       <h2>Contact</h2>
       <p>
         📧 Email: <a href="mailto:pheobenyawanda@gmail.com">pheobenyawanda@gmail.com</a><br />
