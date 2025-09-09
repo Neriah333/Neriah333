@@ -10,7 +10,7 @@
       <h2>About Me</h2>
       <p>
         Hi! I'm <strong>Pheobe Nyawanda</strong>, a full-stack developer and
-        software engineering student specializing in the MERN stack. I love
+        Software engineering student specializing in the MERN stack. I love
         creating modern, responsive, and scalable web applications that solve
         real-world problems.
       </p>
@@ -37,7 +37,7 @@
       <p>
         📧 Email: <a href="mailto:pheobenyawanda@gmail.com">pheobenyawanda@gmail.com</a><br />
         🔗 LinkedIn: <a href="https://www.linkedin.com/in/pheobenyawanda59263630a" target="_blank">My LinkedIn</a><br />
-        📍 Location: Nairobi, Kenya
+        📍 Location: Ki, Kenya
       </p>
     </section>
   </body>
