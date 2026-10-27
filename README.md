@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pheobe Nyawanda</h1>
+<h1 align="center">Hello, I'm Pheobe Nyawanda</h1>
 
 <h3 align="center">
   Software Developer | Backend Engineering | Cloud Technologies
@@ -36,7 +36,7 @@ A full-stack meal ordering application with M-Pesa payment integration.
 - Database: MySQL
 - Payments: M-Pesa Daraja API
 
-🔗 [View Project](https://github.com/Neriah333)
+ [View Project](https://github.com/Neriah333)
 
 ###  Connect With Me
 
